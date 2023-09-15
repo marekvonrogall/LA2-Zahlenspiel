@@ -43,6 +43,7 @@ Ich habe mir vorgenommen eine grafische Benutzeroberfläche zu erstellen, um das
 https://github.com/marekvonrogall/LA2-Zahlenspiel/assets/110893394/b362e3af-e23b-48f2-8b65-dc1cc2e1cfb6
 
 Verifikation:
+
 Das PAP dient zur Veranschaulichung des Ablaufs des Programms.
 Das Video dient als Demonstration des Programms.
 
