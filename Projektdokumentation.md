@@ -103,7 +103,7 @@ Total: 962 min
 
 `Fazit:`
 
-Fazit / VBV
+Ich konnte meine gesetzten Ziele erfolgreich umsetzen.
 
 ## 6 Auswerten
 
