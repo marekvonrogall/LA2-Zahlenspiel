@@ -38,8 +38,9 @@ Ich habe mir vorgenommen eine grafische Benutzeroberfläche zu erstellen, um das
 
 ### 1.4 Diagramme
 
-PAP
-Demonstration
+![Zahlenspiel](https://github.com/marekvonrogall/LA2-Zahlenspiel/assets/110893394/3e638521-fd48-4ac0-bc06-9cc83862aae7)
+
+https://github.com/marekvonrogall/LA2-Zahlenspiel/assets/110893394/b362e3af-e23b-48f2-8b65-dc1cc2e1cfb6
 
 
 
