@@ -7,7 +7,8 @@ Mitglied: Marek von Rogall
 | 18.08.23      | 0.0.1   |   Dokumentation angefangen und über OOP informiert.                  |
 | 25.08.23      | 0.0.2   |   Realisieren                         |
 | 01.09.23      | 0.0.3   |   Realisieren                   |
-| 08.09.23      | 1.0.0   |   Realisieren abgeschlossen. Dokumentation / Portfolioeintrag abgeschlossen.   |
+| 08.09.23      | 1.0.0   |   Realisieren abgeschlossen. Dokumentation / Portfolioeintrag begonnen.   |
+| 15.09.23      | 1.0.0   |   Dokumentation / Portfolioeintrag abgeschlossen. |
 
 ## 1 Informieren
 
@@ -61,7 +62,7 @@ Demonstration
 | 13.A  |   01.09.23    |  von Rogall         |  Bereits geratene Zahlen werden dem Benutzer in zwei Feldern angezeigt  |     30 |
 | 14.A  |   01.09.23    |  von Rogall         |  Der aktuelle Spieler & die gesetzte Zahlenspanne werden auch während dem Spiel angezeigt.   |  20             |
 | 15.A  |   08.09.23    |  von Rogall         |  Wurde das Spiel gewonnen, zeigt es den Namen des Spielers der gewonnen hat an, sowie die Anzahl gebrauchter Versuche an. |20|
-| 16.A  |   08.09.23    |  von Rogall         |  Projektdokumentatino & Portfolioeintrag |225|
+| 16.A  |   08.09.23    |  von Rogall         |  Projektdokumentation & Portfolioeintrag |225|
 
 Total: 895 min
 
@@ -69,22 +70,23 @@ Total: 895 min
 
 | AP-№ | Datum | Zuständig   | geplante Zeit | tatsächliche Zeit |
 |------|-------|-------------|---------------|-------------------|
-| 1.A  | 18.08.23 | von Rogall  |    200        |   200                |
-| 2.A  | 25.08.23 | von Rogall  |    10        |        5           |
-| 3.A  | 25.08.23 | von Rogall  |     90       |       90            |
-| 4.A  | 25.08.23 | von Rogall  |     30       |       30            |
-| 5.A  | 25.08.23 | von Rogall  |     10       |      10             |
-| 6.A  | 25.08.23 | von Rogall  |   45         |       45            |
-| 7.A  | 25.08.23 | von Rogall  |     40       |       40            |
-| 8.A  | 01.09.23 | von Rogall  |   60         |      60             |
-| 9.A  | 01.09.23 | von Rogall  |    20        |     20              |
+| 1.A   | 18.08.23 | von Rogall  |    200        |   200                |
+| 2.A   | 25.08.23 | von Rogall  |    10        |        5           |
+| 3.A   | 25.08.23 | von Rogall  |     90       |       90            |
+| 4.A   | 25.08.23 | von Rogall  |     30       |       30            |
+| 5.A   | 25.08.23 | von Rogall  |     10       |      10             |
+| 6.A   | 25.08.23 | von Rogall  |   45         |       45            |
+| 7.A   | 25.08.23 | von Rogall  |     40       |       40            |
+| 8.A   | 01.09.23 | von Rogall  |   60         |      60             |
+| 9.A   | 01.09.23 | von Rogall  |    20        |     20              |
 | 10.A  | 01.09.23 | von Rogall  |   60         |     60              |
 | 11.A  | 01.09.23 | von Rogall  |    5        |       2            |
 | 12.A  | 01.09.23 | von Rogall  |    30        |     30              |
 | 13.A  | 01.09.23 | von Rogall  |    30        |      30             |
 | 14.A  | 01.09.23 | von Rogall  |   20         |     20              |
-| 15.A  | 18.08.23 | von Rogall  |   20         |     20              |
-| 16.A  | 18.08.23 | von Rogall  |   225         |     300              |
+| 15.A  | 08.09.23 | von Rogall  |   20         |     20              |
+| 16.A  | 08.09.23 | von Rogall  |   225         |     225             |
+| 16.B  | 15.09.23 | von Rogall  |   0        |     75             |
 
 Total: 962 min
 
@@ -94,7 +96,11 @@ Total: 962 min
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |    DATUM  |     Funktioniert     |  von Rogall      |
+| 1.1  |    15.09.23  |     Funktioniert     |  von Rogall      |
+| 2.1  |    15.09.23  |     Funktioniert     |  von Rogall      |
+| 3.1  |    15.09.23  |     Funktioniert     |  von Rogall      |
+| 4.1  |    15.09.23  |     Funktioniert     |  von Rogall      |
+
 `Fazit:`
 
 Fazit / VBV
