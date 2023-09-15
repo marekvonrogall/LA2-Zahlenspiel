@@ -104,8 +104,3 @@ Total: 962 min
 `Fazit:`
 
 Ich konnte meine gesetzten Ziele erfolgreich umsetzen.
-
-## 6 Auswerten
-
-Link zum Lernbericht: LINK HIER
-
