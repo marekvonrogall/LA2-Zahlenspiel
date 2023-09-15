@@ -36,13 +36,15 @@ Ich habe mir vorgenommen eine grafische Benutzeroberfläche zu erstellen, um das
 | 3.1  |  Spiel gestartet.            | Schaltfläche "Optionen" wird gedrückt.    |   Die Optionen werden geöffnet und der Benutzer kann auf den Modus "Mehrspieler" wechseln. |
 | 4.1  |  Spiel gestartet.            | Schaltfläche "Optionen" wird gedrückt.    |   Die Optionen werden geöffnet und der Benutzer kann auf den Modus "Eigene Zahlenspannweite selber wählen" wechseln und seine eigene Zahlenspannweite eingeben. |
 
-### 1.4 Diagramme
+### 1.4 Medien & Diagramme
 
 ![Zahlenspiel](https://github.com/marekvonrogall/LA2-Zahlenspiel/assets/110893394/3e638521-fd48-4ac0-bc06-9cc83862aae7)
 
 https://github.com/marekvonrogall/LA2-Zahlenspiel/assets/110893394/b362e3af-e23b-48f2-8b65-dc1cc2e1cfb6
 
-
+Verifikation:
+Das PAP dient zur Veranschaulichung des Ablaufs des Programms.
+Das Video dient als Demonstration des Programms.
 
 ## 2 Planen
 
