@@ -44,36 +44,50 @@ Demonstration
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit (min) |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |   18.08.23    |  von Rogall         |  Über OOP informieren  |      200         |
-| 1.B  |   25.08.23    |  von Rogall         |  Klassen erstellen      |      10        |
-| 1.C  |   25.08.23    |  von Rogall         |  Form designen     |     90          |
-| 1.D  |   25.08.23    |  von Rogall         |  Elemente benennen & Events hinzufügen       |     30          |
-| 1.E  |   25.08.23    |  von Rogall         |  Generieren der Zufallszahl implementieren          |     10          |
-| 2.A  |   25.08.23    |  von Rogall         |  UserInput überprüfen: = / < / > als Zufallszahl / Falsche Eingaben abfangen    |   45            |
-| 2.B  |   25.08.23    |  von Rogall         |  Ein- und ausblenden der Form-Elemente (Optionen deaktiviert wenn Spiel gestartet usw.)	|   40            |
-| 2.C  |   01.09.23    |  von Rogall         |  Spielernamen implementieren     |     60          |
-| 2.D  |   01.09.23    |  von Rogall         |  Ranglistenpunkte implementieren      |   20            |
-| 3.A  |   01.09.23    |  von Rogall         |  Spielresultat der Rangliste hinzufügen und diese aktualisieren   |   60            |
-| 3.B  |   01.09.23    |  von Rogall         |  "Spiel Beenden"-Funktion hinzufügen     |   5            |
-| 3.C  |   01.09.23    |  von Rogall         |  Reset() Funktion implementieren, um das Spiel erneut spielen zu können    |   30            |
-| 4.A  |   01.09.23    |  von Rogall         |  Bereits geratene Zahlen werden dem Benutzer in zwei Feldern angezeigt  |     30 |
-| 5.A  |   01.09.23    |  von Rogall         |  Der aktuelle Spieler & die gesetzte Zahlenspanne werden auch während dem Spiel angezeigt.   |  20             |
-| 5.B  |   08.09.23    |  von Rogall         |  Wurde das Spiel gewonnen, zeigt es den Namen des Spielers der gewonnen hat an, sowie die Anzahl gebrauchter Versuche an. |20|
-| 5.C  |   08.09.23    |  von Rogall         |  Projektdokumentatino & Portfolioeintrag |225|
+| 2.A  |   25.08.23    |  von Rogall         |  Klassen erstellen      |      10        |
+| 3.A  |   25.08.23    |  von Rogall         |  Form designen     |     90          |
+| 4.A  |   25.08.23    |  von Rogall         |  Elemente benennen & Events hinzufügen       |     30          |
+| 5.A  |   25.08.23    |  von Rogall         |  Generieren der Zufallszahl implementieren          |     10          |
+| 6.A  |   25.08.23    |  von Rogall         |  UserInput überprüfen: = / < / > als Zufallszahl / Falsche Eingaben abfangen    |   45            |
+| 7.A  |   25.08.23    |  von Rogall         |  Ein- und ausblenden der Form-Elemente (Optionen deaktiviert wenn Spiel gestartet usw.)	|   40            |
+| 8.A  |   01.09.23    |  von Rogall         |  Spielernamen implementieren     |     60          |
+| 9.A  |   01.09.23    |  von Rogall         |  Ranglistenpunkte implementieren      |   20            |
+| 10.A  |   01.09.23    |  von Rogall         |  Spielresultat der Rangliste hinzufügen und diese aktualisieren   |   60            |
+| 11.A  |   01.09.23    |  von Rogall         |  "Spiel Beenden"-Funktion hinzufügen     |   5            |
+| 12.A  |   01.09.23    |  von Rogall         |  Reset() Funktion implementieren, um das Spiel erneut spielen zu können    |   30            |
+| 13.A  |   01.09.23    |  von Rogall         |  Bereits geratene Zahlen werden dem Benutzer in zwei Feldern angezeigt  |     30 |
+| 14.A  |   01.09.23    |  von Rogall         |  Der aktuelle Spieler & die gesetzte Zahlenspanne werden auch während dem Spiel angezeigt.   |  20             |
+| 15.A  |   08.09.23    |  von Rogall         |  Wurde das Spiel gewonnen, zeigt es den Namen des Spielers der gewonnen hat an, sowie die Anzahl gebrauchter Versuche an. |20|
+| 16.A  |   08.09.23    |  von Rogall         |  Projektdokumentatino & Portfolioeintrag |225|
 
-Total: 
-
-## 3 Entscheiden
-
-
+Total: 895 min
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig   | geplante Zeit | tatsächliche Zeit |
 |------|-------|-------------|---------------|-------------------|
-| 1.A  |   DATUM   | von Rogall    |        |           |
+| 1.A  | 18.08.23 | von Rogall  |    200        |   200                |
+| 2.A  | 25.08.23 | von Rogall  |    10        |        5           |
+| 3.A  | 25.08.23 | von Rogall  |     90       |       90            |
+| 4.A  | 25.08.23 | von Rogall  |     30       |       30            |
+| 5.A  | 25.08.23 | von Rogall  |     10       |      10             |
+| 6.A  | 25.08.23 | von Rogall  |   45         |       45            |
+| 7.A  | 25.08.23 | von Rogall  |     40       |       40            |
+| 8.A  | 01.09.23 | von Rogall  |   60         |      60             |
+| 9.A  | 01.09.23 | von Rogall  |    20        |     20              |
+| 10.A  | 01.09.23 | von Rogall  |   60         |     60              |
+| 11.A  | 01.09.23 | von Rogall  |    5        |       2            |
+| 12.A  | 01.09.23 | von Rogall  |    30        |     30              |
+| 13.A  | 01.09.23 | von Rogall  |    30        |      30             |
+| 14.A  | 01.09.23 | von Rogall  |   20         |     20              |
+| 15.A  | 18.08.23 | von Rogall  |   20         |     20              |
+| 16.A  | 18.08.23 | von Rogall  |   225         |     300              |
+
+Total: 962 min
+
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
