@@ -221,7 +221,7 @@
             this.labelLowerNumbers.Name = "labelLowerNumbers";
             this.labelLowerNumbers.Size = new System.Drawing.Size(328, 20);
             this.labelLowerNumbers.TabIndex = 6;
-            this.labelLowerNumbers.Text = "Zahlen, die kleiner sind als die geuschte Zahl:";
+            this.labelLowerNumbers.Text = "Zahlen, die kleiner sind als die gesuchte Zahl:";
             // 
             // labelGreaterNumbers
             // 
@@ -232,7 +232,7 @@
             this.labelGreaterNumbers.Name = "labelGreaterNumbers";
             this.labelGreaterNumbers.Size = new System.Drawing.Size(335, 20);
             this.labelGreaterNumbers.TabIndex = 5;
-            this.labelGreaterNumbers.Text = "Zahlen, die grösser sind als die geuschte Zahl:";
+            this.labelGreaterNumbers.Text = "Zahlen, die grösser sind als die gesuchte Zahl:";
             // 
             // boxGreaterNumbers
             // 
