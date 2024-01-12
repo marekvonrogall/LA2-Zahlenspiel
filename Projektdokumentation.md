@@ -32,9 +32,13 @@ Ich habe mir vorgenommen eine grafische Benutzeroberfläche zu erstellen, um das
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |  Spiel gestartet.          | Schaltfläche "Leaderboard" wird gedrückt.        |   Die Rangliste wird angezeigt.               |
-| 2.1  |  Spiel gestartet.       | /        |   Das Spiel besitzt eine grafische Benutzeroberfläche.   |
-| 3.1  |  Spiel gestartet.            | Schaltfläche "Optionen" wird gedrückt.    |   Die Optionen werden geöffnet und der Benutzer kann auf den Modus "Mehrspieler" wechseln. |
-| 4.1  |  Spiel gestartet.            | Schaltfläche "Optionen" wird gedrückt.    |   Die Optionen werden geöffnet und der Benutzer kann auf den Modus "Eigene Zahlenspannweite selber wählen" wechseln und seine eigene Zahlenspannweite eingeben. |
+| 2.1  |  Spiel gestartet.       | Keine Eingabe notwendig        |   Das Spiel besitzt eine grafische Benutzeroberfläche.   |
+| 3.1  |  Spiel gestartet.            | Schaltfläche "Optionen" wird gedrückt.    |   Die Optionen werden geöffnet und der Benutzer bekommt Zugriff auf den Mehrspielermodus. |
+| 3.2  |  Spiel gestartet. Optionen sind aufgerufen.      |  Unter "Spielmodus" wird auf den Knopf "Mehrspieler" gedrückt. | Das Programm wechselt in den Mehrspielermodus. |
+| 3.3  |  Spiel gestartet. In den Optionen wurde das Spiel in den Mehrspielermodus versetzt. | Schaltfläche "Spiel beginnen" wird gedrückt | Das Spiel startet im Mehrspielermodus |
+| 4.1  |  Spiel gestartet.            | Schaltfläche "Optionen" wird gedrückt.    |   Die Optionen werden geöffnet und der Benutzer bekommt Zugriff auf die Option eine eigene Zahlenspannweite auszuwählen |
+| 4.2  |  Spiel gestartet. Optionen sind aufgerufen.      |  Unter "Eigene Zahlenspannweite festlegen?" wird auf den Knopf "Ja" gedrückt. Anschliesend gibt man seine gewünschte Zahlenspannweite ein. | Das Programm wurde auf eine neue Zahlenspannweite festgelegt. |
+| 4.3  |  Spiel gestartet. In den Optionen wurde das Spiel auf eine neue Zahlenspannweite festgelegt. | Schaltfläche "Spiel beginnen" wird gedrückt | Das Spiel startet mit einer eigens festgelegten Zahlenspannweite. |
 
 ### 1.4 Medien & Diagramme
 
@@ -103,7 +107,11 @@ Total: 962 min
 | 1.1  |    15.09.23  |     Funktioniert     |  von Rogall      |
 | 2.1  |    15.09.23  |     Funktioniert     |  von Rogall      |
 | 3.1  |    15.09.23  |     Funktioniert     |  von Rogall      |
+| 3.2  |    12.01.24  |     Funktioniert     |  von Rogall      |
+| 3.3  |    12.01.24  |     Funktioniert     |  von Rogall      |
 | 4.1  |    15.09.23  |     Funktioniert     |  von Rogall      |
+| 4.2  |    12.01.24  |     Funktioniert     |  von Rogall      |
+| 4.3  |    12.01.24  |     Funktioniert     |  von Rogall      |
 
 `Fazit:`
 
