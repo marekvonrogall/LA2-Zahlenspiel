@@ -102,6 +102,8 @@ Total: 962 min
 
 ### 5.1 Testprotokoll
 
+Testumgebung: Windows 11 22H2 (Build 2262.2861)
+
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |    15.09.23  |     Funktioniert     |  von Rogall      |
